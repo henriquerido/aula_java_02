@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(220, 220, 233);
+}
+
+.campo{
+    background-image: url('https://www.pngegg.com/pt/png-xpjsw.png') ;
+    text-align: right;
+    padding: 30px;
+    background-color: #3b5997;
+    border: black;
+    color: white;
+}
+
+.logo img{
+    width: 200px;
+    float: left;
+    margin-top: -20px;
+}
+
+.login{
+    background-color: #3b5997;
+    color: white;
+    border: 0.01px solid black;
+    width: 60px;
+    padding: 2px;
+}
+
+
